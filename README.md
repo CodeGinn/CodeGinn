@@ -14,10 +14,10 @@ I'm an experienced Android App Developer with passion for building high-quality,
 
 ## Projects
 
-### [Project Name 1]
-Description: A brief overview of the project and its key features.
-- **Technologies Used:** Kotlin, Jetpack Compose, Firebase
-- **GitHub Repository:** [Link to Repository](#)
+### Miwacoop Android App
+Description: Basic app that will help sugarcane farmers in Kenya improve on their lifestyles.
+- **Technologies Used:** Kotlin, Jetpack Compose
+- **GitHub Repository:** https://github.com/CodeGinn/Miwacoop-Basic-Android-App
 
 ## Contact Me
 
