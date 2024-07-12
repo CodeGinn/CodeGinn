@@ -1,16 +1,44 @@
-<h1 align="center">Hi 👋, I'm Code Ginn</h1>
-<h3 align="center">A passionate Android developer from Kenya</h3>
+# 👋 Hi, I'm Code Ginn!
 
-- 🔭 I’m currently working on **a meme sharing android mobile app**
+## About Me
 
-- 🌱 I’m currently learning **Android Jetpack Compose**
+I'm an experienced Android App Developer with passion for building high-quality, user-friendly mobile applications. My expertise lies in using Android Studio, Kotlin, Jetpack Compose, MySQL, and Firebase to create robust and scalable apps.
 
-- 💬 Ask me about **Android & Kotlin**
+## Skills
 
-- 📫 How to reach me **codeginn@gmail.com**
+- **Languages:** Kotlin, Java
+- **Development Tools:** Android Studio
+- **UI Framework:** Jetpack Compose
+- **Databases:** MySQL, Firebase Firestore
+- **Cloud Services:** Firebase Authentication, Firebase Cloud Messaging, Firebase Analytics
 
-<p align="left">
-</p>
+## Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+### [Project Name 1]
+Description: A brief overview of the project and its key features.
+- **Technologies Used:** Kotlin, Jetpack Compose, Firebase
+- **GitHub Repository:** [Link to Repository](#)
+
+## Contact Me
+
+- **Email:** codeginn@gmail.com
+- **LinkedIn:** www.linkedin.com/in/code-ginn
+
+Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
+
+## GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+## Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+## Support
+
+If you find my projects helpful or interesting, consider supporting me by starring my repositories or buying me a coffee!
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23FFDD00.svg?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
